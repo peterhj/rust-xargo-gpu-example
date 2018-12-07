@@ -1,0 +1,11 @@
+[package]
+name = "coretest"
+version = "0.0.0"
+
+[lib]
+path = "lib.rs"
+
+#[dependencies.compiler_builtins]
+#path = "../libcompiler_builtins"
+#[dependencies.core]
+#path = "../libcore"
